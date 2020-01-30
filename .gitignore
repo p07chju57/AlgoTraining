@@ -1,4 +1,4 @@
-venv
-/venv
-.idea
-/.idea
+
+/venv/
+/.idea/
+/.idea/workspace.xml
