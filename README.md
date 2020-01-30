@@ -5,7 +5,11 @@
 
 🏆 Some technical challenges for practicing my problems solving skills 
 
-###Excerice 1 (From CodeWars ) : Fundamentals
+This is not all the problems i solved which enonce i write in the readme
+So i'll continiously update this readme 
+
+
+### Exercice 1 (From CodeWars ) : Fundamentals
 Convert a Number to a String!
 We need a function that can transform a number into a string.
 
