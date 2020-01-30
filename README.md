@@ -1,6 +1,9 @@
 # AlgoTraining
+🏆 Some technical challenges for practicing my problems solving skills 
 
-Those exercice is for practicing my problems solving skills 
+This is not all the problems i solved which enonce i write in the readme
+
+So i'll will update this readme after  
 
 ###Excerice 1 (From CodeWars ) : Fundamentals
 Convert a Number to a String!

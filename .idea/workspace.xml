@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="072c9011-52a0-4570-bb7e-b1237ad43f1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/AlphabetPosistion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/EvenOrOdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/MissingNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/SqaureN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/numberToString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/oddInt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fundamentals" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +73,7 @@
       <workItem from="1576657839986" duration="674000" />
       <workItem from="1580202656511" duration="1531000" />
       <workItem from="1580299996438" duration="2336000" />
+      <workItem from="1580394095820" duration="237000" />
     </task>
     <servers />
   </component>
