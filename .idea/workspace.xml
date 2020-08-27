@@ -1,95 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="072c9011-52a0-4570-bb7e-b1237ad43f1d" name="Default Changelist" comment="">
+    <list default="true" id="7cbccf08-7d4d-4990-8c57-42e0eef0acb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/betterThanAverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/isSquarePython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/The3n+1Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeWars/tests/betterThanAverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Algo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/Fundamentals/AlphabetPosistion.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/AlphabetPosistion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/Fundamentals/SqaureN.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/Fundamentals/SqaureN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1TbfucutDH0TmDXwHe2EW8WXwU3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="JupyterTrust" id="9d8e5579-5dfc-42cd-aa58-8203650bcaa1" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z4mq36nFqHCkjCTS8z2dB1RSOb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CodeWars/Fundamentals" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Fundamentals" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="072c9011-52a0-4570-bb7e-b1237ad43f1d" name="Default Changelist" comment="" />
-      <created>1573733939355</created>
+      <changelist id="7cbccf08-7d4d-4990-8c57-42e0eef0acb7" name="Default Changelist" comment="" />
+      <created>1584106927971</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573733939355</updated>
-      <workItem from="1573733947011" duration="4616000" />
-      <workItem from="1573820887547" duration="1124000" />
-      <workItem from="1573857267448" duration="874000" />
-      <workItem from="1576657839986" duration="674000" />
-      <workItem from="1580202656511" duration="1531000" />
-      <workItem from="1580299996438" duration="2336000" />
-      <workItem from="1580394095820" duration="816000" />
+      <updated>1584106927971</updated>
+      <workItem from="1584106929312" duration="3349000" />
+      <workItem from="1584132716232" duration="1603000" />
+      <workItem from="1584199901976" duration="1117000" />
+      <workItem from="1584201959820" duration="31000" />
+      <workItem from="1584202048929" duration="20000" />
+      <workItem from="1586202500200" duration="2093000" />
+      <workItem from="1586967651573" duration="40000" />
+      <workItem from="1590321201759" duration="110000" />
+      <workItem from="1594137106875" duration="555000" />
+      <workItem from="1595267152074" duration="16000" />
+      <workItem from="1598542902747" duration="280000" />
+      <workItem from="1598543197910" duration="64000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/Fundamentals" />
-    </ignored-roots>
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
